@@ -1,0 +1,5 @@
+First change in the file
+
+vi file_name : to open the file in read and write mode
+
+cat file_name : to open the file in read only mode
