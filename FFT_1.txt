@@ -1,5 +1,15 @@
 First change in the file
 
-vi file_name : to open the file in read and write mode
+1. vi file_name : to open the file in read and write mode
+2. Press I to insert
+3. Make the changes to the file
+4. Press Esc when done.
+5. Shift+; wq to exit from the environment
 
-cat file_name : to open the file in read only mode
+
+# cat file_name : to open the file in read only mode
+
+# git add file_name helps to add & track the file 
+  git add . to add & track all the files in the working directory
+
+
