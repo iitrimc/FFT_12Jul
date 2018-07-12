@@ -32,5 +32,3 @@ First change in the file
 #git pull: to add the branches to the local which are created on the remote
 
 #git checkout -b (branchName): to change the working branch
-
-Changes made in the firstBranch, final change after Rohan's commit
