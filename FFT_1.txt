@@ -1,17 +1,36 @@
 First change in the file
 
+
+
 1. vi file_name : to open the file in read and write mode
+
 2. Press I to insert
+
 3. Make the changes to the file
+
 4. Press Esc when done
 5. : wq to exit from the environment
 
 
+
+
 # cat file_name : to open the file in read only mode
+
+
 
 # git add file_name helps to track the file 
   git add . to track all the files in the working directory
 
+
+
 #git commit -m "(message)": to commit to the local repository
 
 #git push : to commit to the remote repository
+
+#git branch: to show the working branch
+
+#git pull: to add the branches to the local which are created on the remote
+
+#git checkout -b (branchName): to change the working branch
+
+Changes made in the firstBranch
